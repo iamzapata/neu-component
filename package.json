@@ -1,0 +1,40 @@
+{
+  "name": "neu-component",
+  "version": "1.0.0",
+  "description": "CLI for creating React components with an opinionated folder structure",
+  "homepage": "https://github.com/iamzapata/react-ts-component",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamzapata/react-ts-component"
+  },
+  "bugs": {
+    "url": "https://github.com/iamzapata/react-ts-component/issues"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "typescript",
+    "stories",
+    "tests",
+    "cli",
+    "component",
+    "boilerplate"
+  ],
+  "author": "Andres Zapata",
+  "license": "MIT",
+  "bin": {
+    "neu-component": "./src/index.js"
+  },
+  "dependencies": {
+    "@babel/parser": "^7.18.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^14.2.0",
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "prettier": "^2.6.2"
+  }
+}

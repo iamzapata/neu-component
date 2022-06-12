@@ -1,5 +1,6 @@
 import { render, screen } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
+import { COMPONENT_NAME_ } from './COMPONENT_NAME_.component'
 
 describe('<COMPONENT_NAME_ />', () => {
   it('renders', () => {

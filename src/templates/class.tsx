@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import styles from './COMPONENT_NAME_.module.scss'
 
 interface COMPONENT_NAME_Props {
-  FOO: string
+  FOO?: string
 }
 
 interface COMPONENT_NAME_State {

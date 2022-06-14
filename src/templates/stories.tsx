@@ -11,4 +11,4 @@ export default {
 
 export const Basic = () => <COMPONENT_NAME_ />
 
-export const WithProp = () => <COMPONENT_NAME_ prop="value" />
+export const WithProp = () => <COMPONENT_NAME_ FOO="value" />

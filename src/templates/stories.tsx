@@ -1,4 +1,4 @@
-// COMPONENT_NAME_.story.js|jsx
+// COMPONENT_NAME_.stories.js|jsx
 
 import React from 'react'
 

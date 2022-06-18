@@ -1,6 +1,6 @@
 {
   "name": "neu-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI for creating React components with an opinionated folder structure",
   "homepage": "https://github.com/iamzapata/react-ts-component",
   "repository": {
